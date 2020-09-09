@@ -5,7 +5,7 @@
 
 Necesitamos trabajar en Dublin y se nos ha ocurrido la idea del siglo, montar un Foodtrack de tortilla de patatas alli. Como buenos españoles sabemos del triunfe que supone poner una de estas en una mesa, pero no sabemos si nuestro negocio de furgo funcionará en la capital Irlandesa. 
 
-Es por ello que vamos a intentar resolver ciertas incognitas partiendo del dataset hay que limpiarlo, analizarlo, aplicar gráficos y mediante la técnica del storytelling convencer al usuario.
+Es por ello que vamos a intentar resolver ciertas incognitas partiendo del dataset hay que limpiarlo, analizarlo, aplicar gráficos y mediante la técnica del storytelling refrendar la idea.
 
 ## 1. Data Cleansing
 
